@@ -3,8 +3,11 @@
 #EXTINF:-1 group-title="DEPORTES", DIRECTV SPORTS
 https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/3_.m3u8?token=0ENKaYIn6pec7it-GAGFIg&expires=1772366627
 
-#EXTINF:-1 group-title="DEPORTES", DIRECTV SPORTS
+#EXTINF:-1 group-title="DEPORTES", DIRECTV SPORTS HD
 https://ym9yzq.fubohd.com/dsports/mono.m3u8?token=05ef9a365c7336ba3ff6180e0c041dd41aa76e13-7d-1772360567-1772342567
+
+#EXTINF:-1 group-title="DEPORTES", DIRECTV SPORTS 2 HD
+https://a2vlca.fubohd.com/dsports2/mono.m3u8?token=3e28fbbd2fdf89aea6bdbdcf6bf1e02017312e15-a3-1772360759-1772342759
 
 #EXTINF:-1 group-title="DEPORTES", ESPN 
 https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/13_.m3u8?token=RysXHRZuzmZeHYbiwi2nEA&expires=1772372176
@@ -35,6 +38,7 @@ https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/37_.m3u8?token=q
 
 #EXTINF:-1 group-title="DEPORTES", DAZN LA LIGA
 https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/28_.m3u8?token=mPr6XnLBvfc1ncwcDdeR_w&expires=1772375205
+
 
 
 
