@@ -21,6 +21,9 @@ https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/14_.m3u8?token=v
 #EXTINF:-1 group-title="DEPORTES", ESPN 3
 https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/15_.m3u8?token=U7PiqJ2XreW7sdsCEltYhQ&expires=1772374620
 
+#EXTINF:-1 group-title="DEPORTES", (Deporflix) ESPN 3 HD
+https://wf6kt.envivoslatam.org/espn3/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=d91dc2b91fde8b9391f070d4aee932a3cfa37bfc-05-1772391946-1772337946
+
 #EXTINF:-1 group-title="DEPORTES", ESPN 4
 https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/23_.m3u8?token=Cb01431GebtDMnELhbjstA&expires=1772374697
 
@@ -41,6 +44,7 @@ https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/37_.m3u8?token=q
 
 #EXTINF:-1 group-title="DEPORTES", DAZN LA LIGA
 https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/28_.m3u8?token=mPr6XnLBvfc1ncwcDdeR_w&expires=1772375205
+
 
 
 
