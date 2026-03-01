@@ -1,49 +1,40 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="DEPORTES", DIRECTV SPORTS
-https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/3_.m3u8?token=0ENKaYIn6pec7it-GAGFIg&expires=1772366627
+https://kh5vy.envivoslatam.org/dsports/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=906a7ad25f3c1d71f29f242129872e9772d218c3-ab-1772437448-1772383448
 
-#EXTINF:-1 group-title="DEPORTES", DIRECTV SPORTS HD
-https://ym9yzq.fubohd.com/dsports/mono.m3u8?token=05ef9a365c7336ba3ff6180e0c041dd41aa76e13-7d-1772360567-1772342567
 
 #EXTINF:-1 group-title="DEPORTES", DIRECTV SPORTS 2 HD
-https://a2vlca.fubohd.com/dsports2/mono.m3u8?token=3e28fbbd2fdf89aea6bdbdcf6bf1e02017312e15-a3-1772360759-1772342759
+
 
 #EXTINF:-1 group-title="DEPORTES", ESPN 
-https://vg7ie.envivoslatam.org/espn/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=3cd87703a77d5968fc3185e39bda8db2008a92e3-b9-1772433163-1772379163
 
-#EXTINF:-1 group-title="DEPORTES", ESPN HD
-https://ub2dr.envivoslatam.org/espn/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=f11f8b53f6b5abf3a7f08bf45ac6ca7f0fbfcf4f-c1-1772387960-1772333960
+
 
 #EXTINF:-1 group-title="DEPORTES", ESPN 2
-https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/14_.m3u8?token=vQ2ISgp1FGEG7N8dOTgYHQ&expires=1772374444
+
 
 #EXTINF:-1 group-title="DEPORTES", ESPN 3
-https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/15_.m3u8?token=U7PiqJ2XreW7sdsCEltYhQ&expires=1772374620
 
-#EXTINF:-1 group-title="DEPORTES", (Deporflix) ESPN 3 HD
-https://wf6kt.envivoslatam.org/espn3/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=d91dc2b91fde8b9391f070d4aee932a3cfa37bfc-05-1772391946-1772337946
 
 #EXTINF:-1 group-title="DEPORTES", ESPN 4
-https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/23_.m3u8?token=Cb01431GebtDMnELhbjstA&expires=1772374697
+
 
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 
-https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/8_.m3u8?token=2yo3Xry3oe2FRi28_UakxA&expires=1772374828
+
 
 #EXTINF:-1 group-title="DEPORTES", (deporflix) FOX SPORTS HD
-https://aw1wcm92zq.fubohd.com/foxsports/mono.m3u8?token=e559a817d6040ef465a3ef2e2a90d6d0c80f6aa0-3b-1772363054-1772345054
 
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2
-https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/9_.m3u8?token=aHHj3TGZfciKU6TYZVbwfA&expires=1772374959
+
 
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 3
-https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/10_.m3u8?token=-IbT3Qd0HCvftv4xeQXPIg&expires=1772375012
+
 
 #EXTINF:-1 group-title="DEPORTES", SKY SPORTS LA LIGA
-https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/37_.m3u8?token=qQlNSaY5pwa-urJCVpsKrw&expires=1772375071
 
 #EXTINF:-1 group-title="DEPORTES", DAZN LA LIGA
-https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/28_.m3u8?token=mPr6XnLBvfc1ncwcDdeR_w&expires=1772375205
+
 
 
 
