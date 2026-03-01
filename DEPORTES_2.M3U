@@ -6,5 +6,32 @@ https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/3_.m3u8?token=0E
 #EXTINF:-1 group-title="DEPORTES", ESPN 
 https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/13_.m3u8?token=RysXHRZuzmZeHYbiwi2nEA&expires=1772372176
 
+#EXTINF:-1 group-title="DEPORTES", ESPN HD
+https://ub2dr.envivoslatam.org/espn/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=f11f8b53f6b5abf3a7f08bf45ac6ca7f0fbfcf4f-c1-1772387960-1772333960
+
+#EXTINF:-1 group-title="DEPORTES", ESPN 2
+https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/14_.m3u8?token=vQ2ISgp1FGEG7N8dOTgYHQ&expires=1772374444
+
+#EXTINF:-1 group-title="DEPORTES", ESPN 3
+https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/15_.m3u8?token=U7PiqJ2XreW7sdsCEltYhQ&expires=1772374620
+
+#EXTINF:-1 group-title="DEPORTES", ESPN 4
+https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/23_.m3u8?token=Cb01431GebtDMnELhbjstA&expires=1772374697
+
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 
+https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/8_.m3u8?token=2yo3Xry3oe2FRi28_UakxA&expires=1772374828
+
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2
+https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/9_.m3u8?token=aHHj3TGZfciKU6TYZVbwfA&expires=1772374959
+
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 3
+https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/10_.m3u8?token=-IbT3Qd0HCvftv4xeQXPIg&expires=1772375012
+
+#EXTINF:-1 group-title="DEPORTES", SKY SPORTS LA LIGA
+https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/37_.m3u8?token=qQlNSaY5pwa-urJCVpsKrw&expires=1772375071
+
+#EXTINF:-1 group-title="DEPORTES", DAZN LA LIGA
+https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/28_.m3u8?token=mPr6XnLBvfc1ncwcDdeR_w&expires=1772375205
+
 
 
