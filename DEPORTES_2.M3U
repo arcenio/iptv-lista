@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="DEPORTES", disney
+https://vg7ie.envivoslatam.org/disney3/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=19151243f1369390bb500578465cb6d805135ee8-bd-1772443826-1772389826
+
 #EXTINF:-1 group-title="DEPORTES", DIRECTV SPORTS
 https://kh5vy.envivoslatam.org/dsports/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=906a7ad25f3c1d71f29f242129872e9772d218c3-ab-1772437448-1772383448
 
@@ -34,6 +37,7 @@ https://ub2dr.envivoslatam.org/dsports2/tracks-v1a1/mono.m3u8?ip=190.219.144.36&
 #EXTINF:-1 group-title="DEPORTES", SKY SPORTS LA LIGA
 
 #EXTINF:-1 group-title="DEPORTES", DAZN LA LIGA
+
 
 
 
