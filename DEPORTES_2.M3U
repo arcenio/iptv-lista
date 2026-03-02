@@ -1,24 +1,26 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="DEPORTES", disney
-https://vg7ie.envivoslatam.org/disney3/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=19151243f1369390bb500578465cb6d805135ee8-bd-1772443826-1772389826
+#EXTINF:-1 group-title="DEPORTES", ESPN
+https://tyg2mnl9.fubohd.com/espn/mono.m3u8?token=265ee7b4a0d450c6554cbffa155fe8ea22258375-5-1772498117-1772480117
 
-#EXTINF:-1 group-title="DEPORTES", DIRECTV SPORTS
-https://kh5vy.envivoslatam.org/dsports/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=906a7ad25f3c1d71f29f242129872e9772d218c3-ab-1772437448-1772383448
+#EXTINF:-1 group-title="DEPORTES", ESPN
+https://agvyby.fubohd.com/espn/mono.m3u8?token=404f4181258f7145a8d4719c053c5d5d0425f574-5a-1772498222-1772480222
 
-
-#EXTINF:-1 group-title="DEPORTES", DIRECTV SPORTS 2 HD
-https://ub2dr.envivoslatam.org/dsports2/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=7a14cdcbe6f62e14aad04704b2d40d8252ece17c-2a-1772437904-1772383904
-
-#EXTINF:-1 group-title="DEPORTES", ESPN 
+#EXTINF:-1 group-title="DEPORTES", Disney
+https://tyg2mnl9.fubohd.com/espn/mono.m3u8?token=ea86aded00bb745dc4e34c769c68d222cfed54ac-48-1772498283-1772480283
 
 
+#EXTINF:-1 group-title="DEPORTES", Disney 
+https://lcrj3.envivoslatam.org/espn/index.m3u8?token=fde032e81db474d6b0028c122c8568ff390edf21-01-1772526219-1772472219&ip=190.219.144.36
 
-#EXTINF:-1 group-title="DEPORTES", ESPN 2
+#EXTINF:-1 group-title="DEPORTES", Disney
+https://lcrj3.envivoslatam.org/espn/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=fde032e81db474d6b0028c122c8568ff390edf21-01-1772526219-1772472219
 
+#EXTINF:-1 group-title="DEPORTES",  ESPN 
+https://lcrj3.envivoslatam.org/espnplus1/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=da331d6a08572f90d65afb2a0bf9bf79a5a69b22-5c-1772526392-1772472392
 
-#EXTINF:-1 group-title="DEPORTES", ESPN 3
-
+#EXTINF:-1 group-title="DEPORTES", ESPN deportes
+https://ag9wzq.fubohd.com/espndeportes/mono.m3u8?token=23a8a1aa3986ec7924d5e44a0195cc48d04ab473-c8-1772498560-1772480560
 
 #EXTINF:-1 group-title="DEPORTES", ESPN 4
 
@@ -37,6 +39,7 @@ https://ub2dr.envivoslatam.org/dsports2/tracks-v1a1/mono.m3u8?ip=190.219.144.36&
 #EXTINF:-1 group-title="DEPORTES", SKY SPORTS LA LIGA
 
 #EXTINF:-1 group-title="DEPORTES", DAZN LA LIGA
+
 
 
 
