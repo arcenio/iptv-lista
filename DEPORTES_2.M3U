@@ -4,8 +4,9 @@
 #EXTINF:-1 group-title="DEPORTES", Disney 
 https://lcrj3.envivoslatam.org/espn/index.m3u8?token=fde032e81db474d6b0028c122c8568ff390edf21-01-1772526219-1772472219&ip=190.219.144.36
 
-#EXTINF:-1 group-title="DEPORTES", ESPN 4
+#EXTINF:-1 group-title="DEPORTES", ESPN MX
 
+https://smjt9q.envivoslatam.org/hotflix/espnmx/index.m3u8?token=349bf9327d69f6934939765e84817bca5fdc6976-70-1772557863-1772503863&ip=181.197.55.164
 
 #EXTINF:-1 group-title="DEPORTES", otro Desport
 
