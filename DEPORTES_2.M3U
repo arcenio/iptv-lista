@@ -15,9 +15,11 @@ https://wf6kt.envivoslatam.org/espnpremium/index.m3u8?token=44a50c188f2bed2ccf78
 
 
 
-#EXTINF:-1 group-title="DEPORTES", (deporflix) ESPN deportes
+#EXTINF:-1 group-title="DEPORTES", (deporflix) RIVER 2
 
-https://aw1wcm92zq.fubohd.com/espndeportes/mono.m3u8?token=b6261e240fe48f33874e637b37721a764eab2eb4-8-1772534111-1772516111
+https://wf6kt.envivoslatam.org/espnpremium/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=44a50c188f2bed2ccf787ea34f6446cf7b5ea2f3-28-1772563332-1772509332
+
+
 
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2
 
