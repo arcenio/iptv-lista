@@ -4,8 +4,10 @@
 #EXTINF:-1 group-title="DEPORTES", Disney 
 https://lcrj3.envivoslatam.org/espn/index.m3u8?token=fde032e81db474d6b0028c122c8568ff390edf21-01-1772526219-1772472219&ip=190.219.144.36
 
-#EXTINF:-1 group-title="DEPORTES", ESPN 2 MX
-https://x4bnd7lq.fubohd.com/espnmx/mono.m3u8?token=e27c984e67554277103aae213820f383d64d2176-77-1772530505-1772512505
+#EXTINF:-1 group-title="DEPORTES", Dsport
+
+https://a2vlca.fubohd.com/dsports2/mono.m3u8?token=bc184946293a5b39fc261768925719c87049ef49-ee-1772533805-1772515805
+
 
 #EXTINF:-1 group-title="DEPORTES", otro Desport
 
