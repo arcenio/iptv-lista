@@ -1,33 +1,32 @@
 O#EXTM3U
 
 
-#EXTINF:-1 group-title="DEPORTES", Olímpic lyon
+#EXTINF:-1 group-title="DEPORTES", ESPN1
 
-https://pvtn5y.envivoslatam.org/fox_deportes_usa/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=1af7eb5257bc76b0b77bd790253faf14af0db625-50-1772787467-1772733467
-
-
-
-#EXTINF:-1 group-title="DEPORTES", Arsenal 1
+https://ng0pr.envivoslatam.org/espn/index.m3u8?token=4acabc6fd31b136f567257d0545fb1e82da8291e-78-1772866716-1772812716&ip=190.219.144.36
 
 
-https://kh5vy.envivoslatam.org/espn2/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=a96ca65a01e2db5942d4799e07468ba9af126ad6-f0-1772703871-1772649871
+#EXTINF:-1 group-title="DEPORTES", ESPN11
+https://ng0pr.envivoslatam.org/espn/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=4acabc6fd31b136f567257d0545fb1e82da8291e-78-1772866716-1772812716
 
 
+#EXTINF:-1 group-title="DEPORTES", ESPN22
+https://smjt9q.envivoslatam.org/espn/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=f39e8f5b73f05e8b2176a9e5c3ac04db35cc658c-ae-1772867039-1772813039
 
 
-#EXTINF:-1 group-title="DEPORTES", PANAMA
-https://playlist.dmcfd.xyz/?url=aHR0cHMlM0ElMkYlMkZ6ZWtvbmV3LmR2YWxuYS5ydSUyRnpla28lMkZwcmVtaXVtNzU4JTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
-
+#EXTINF:-1 group-title="DEPORTES", ESPN22
+https://aw1wcm92zq.fubohd.com/espn/mono.m3u8?token=a393a730178751b215857e88af59ff8b08a6e650-b0-1772839524-1772821524
 
 
 
 
 
 
-#EXTINF:-1 group-title="DEPORTES", copa libertadores
+#EXTINF:-1 group-title="DEPORTES", SKY SPORT
+https://ssout.marsrivagg.click/skylaliga/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=450079e31972f503b2b02908327aa549cf70060e-36-1772867690-1772813690
 
 
-https://aw1wcm92zq.fubohd.com/foxsports/mono.m3u8?token=0ae2cf52f610be3d50f2842480af15b7777c1713-74-1772677777-1772659777
+
 
 
 
