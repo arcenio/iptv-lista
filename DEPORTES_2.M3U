@@ -1,20 +1,17 @@
 O#EXTM3U
 
 
-#EXTINF:-1 group-title="DEPORTES", Befin sport
+#EXTINF:-1 group-title="DEPORTES", Manchester
 
-https://agvyby.fubohd.com/beinsportes/mono.m3u8?token=3e8e9422c8a96af73b3a8a89ca2e7727d9b8dc1d-ac-1772921750-1772903750
-
-
+https://vg7ie.envivoslatam.org/espn/index.m3u8?token=f25ca6f16d7a166fc079716c83d1d5fb827158d0-44-1772956367-1772902367&ip=190.219.144.36
 
 
-#EXTINF:-1 group-title="DEPORTES", disney
 
-https://lcrj3.envivoslatam.org/disney14/index.m3u8?token=461250055296024d3c52be379b55cd923eab187e-3e-1772948479-1772894479&ip=190.141.172.252
+#EXTINF:-1 group-title="DEPORTES", BARCELONA
+https://ng0pr.envivoslatam.org/espndeportes/index.m3u8?token=754b09b1f25554a89c3e15ae54357a2c99dd10c2-88-1772956459-1772902459&ip=190.219.144.36
 
-#EXTINF:-1 group-title="DEPORTES", ESPN22
-https://smjt9q.envivoslatam.org/espn/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=f39e8f5b73f05e8b2176a9e5c3ac04db35cc658c-ae-1772867039-1772813039
-
+#EXTINF:-1 group-title="DEPORTES", BARCELONA DSPORT
+https://wf6kt.envivoslatam.org/dsports/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=8d02ccbf6dc55e529846481aa4c32cfa9c354993-d9-1772956505-1772902505
 
 #EXTINF:-1 group-title="DEPORTES", ESPN22
 https://aw1wcm92zq.fubohd.com/espn/mono.m3u8?token=a393a730178751b215857e88af59ff8b08a6e650-b0-1772839524-1772821524
@@ -30,6 +27,7 @@ https://wf6kt.envivoslatam.org/espnplus1/tracks-v1a1/mono.m3u8?ip=190.219.144.36
 
 #EXTINF:-1 group-title="DEPORTES", ESPN HD
 https://rm8zcvk3.fubohd.com/espndeportes/mono.m3u8?token=ce2adc3c78be08c678998a776bfff10a4eb996ab-f5-1772844672-1772826672
+
 
 
 
