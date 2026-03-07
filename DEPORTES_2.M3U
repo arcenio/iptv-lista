@@ -8,9 +8,9 @@ https://lcrj3.envivoslatam.org/disney14/tracks-v1a1/mono.m3u8?ip=190.141.172.252
 
 
 
-#EXTINF:-1 group-title="DEPORTES", ESPN11
-https://ng0pr.envivoslatam.org/espn/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=4acabc6fd31b136f567257d0545fb1e82da8291e-78-1772866716-1772812716
+#EXTINF:-1 group-title="DEPORTES", disney
 
+https://lcrj3.envivoslatam.org/disney14/index.m3u8?token=461250055296024d3c52be379b55cd923eab187e-3e-1772948479-1772894479&ip=190.141.172.252
 
 #EXTINF:-1 group-title="DEPORTES", ESPN22
 https://smjt9q.envivoslatam.org/espn/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=f39e8f5b73f05e8b2176a9e5c3ac04db35cc658c-ae-1772867039-1772813039
