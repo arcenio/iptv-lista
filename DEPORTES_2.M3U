@@ -1,15 +1,16 @@
 O#EXTM3U
 
 
-#EXTINF:-1 group-title="DEPORTES", PRUEBA
+#EXTINF:-1 group-title="DEPORTES", arsenal 1
 
-https://smjt9q.envivoslatam.org/winplus/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=28333ef7b6d05f653957d1662e154629e4c37240-60-1773238246-1773184246
+https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/13_.m3u8?token=3Xq-ggPwfaEe6PhoAkjmGQ&expires=1773284444
 
-#EXTINF:-1 group-title="DEPORTES", tenis
+#EXTINF:-1 group-title="DEPORTES", arsenal 2
 
-https://ag9wzq.fubohd.com/espn2/mono.m3u8?token=6f89a4d04a6e1ffa315991e5ebed9118f2e374bc-95-1773212521-1773194521
+https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/13_.m3u8?token=e7Vi6tR5xpulbd8KuO3UiA&expires=1773284539
 
 #EXTINF:-1 group-title="DEPORTES", Botafogo
+
 https://ag9wzq.fubohd.com/espn/mono.m3u8?token=094f8de1a274cc413963bdbf253d752f655a1ac5-cc-1773213225-1773195225
 #EXTINF:-1 group-title="DEPORTES", barcelona 1
 https://agvyby.fubohd.com/dsports/mono.m3u8?token=ec75cda3f358fea8467a7fa87a5b30fe84201047-35-1772930859-1772912859
@@ -23,6 +24,7 @@ https://j8nte.envivoslatam.org/espnplus3/index.m3u8?token=8bb8ef62640321dca1da73
 
 #EXTINF:-1 group-title="DEPORTES", ESPN HD
 https://aw1wcm92zq.fubohd.com/sky_sports_laliga/mono.m3u8?token=491c27b2040362b3191059f36f2c302abfc9aa2e-7b-1772931203-1772913203
+
 
 
 
