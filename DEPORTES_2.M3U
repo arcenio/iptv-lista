@@ -1,24 +1,22 @@
 O#EXTM3U
 
 
-#EXTINF:-1 group-title="DEPORTES", arsenal champion
+#EXTINF:-1 group-title="DEPORTES", real madrid eñche
+https://pecdl1.streameasthd.net/espnplus3/index.m3u8?token=708cda91bc194ceb5a41c4018d0e81dc082360f7-d5-1773566534-1773512534&ip=190.219.144.36
 
-https://rm8zcvk3.fubohd.com/espn/mono.m3u8?token=b61a7285c2bb2b39949b10aeb0e1ef1c84bd5e2f-c3-1773271987-1773253987
-
-#EXTINF:-1 group-title="DEPORTES", REAL MADRID 1
-
-https://agvyby.fubohd.com/espn/mono.m3u8?token=e154a0211dab15e20749a154e8b05a1a646df56e-b-1773274395-1773256395
+#EXTINF:-1 group-title="DEPORTES", REAL MADRID elche
+https://ag9wzq.fubohd.com/espndeportes/mono.m3u8?token=d2f4bfbe3be5b3f77b5e647866d090648739e19c-60-1773538752-1773520752
 
 #EXTINF:-1 group-title="DEPORTES", REAL MADRID 2
 
 https://wp9xqedt.fubohd.com/espn/mono.m3u8?token=b3ee801547b81c23e7529a10330de5c80fd33b92-7-1773274471-1773256471
 
-#EXTINF:-1 group-title="DEPORTES", REAL MADRID 3  FOX
-https://x4bnd7lq.fubohd.com/foxsports/mono.m3u8?token=4e22a2f5515eb71a809c791a722397226cf2ae2b-d8-1773274556-1773256556
+#EXTINF:-1 group-title="DEPORTES", REAL MADRID elche a
 
-#EXTINF:-1 group-title="DEPORTES", REAL MADRID 4  FOX
-https://ym9yzq.fubohd.com/foxsports/mono.m3u8?token=0318aef3bb9332d587701205dc7c46ac2f0e9b28-2c-1773274647-1773256647
+https://51a1.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=48477ed2089c0a1435e88c877aaf92501d70df26-ab-1773566750-1773512750
 
+#EXTINF:-1 group-title="DEPORTES", REAL MADRID  elche plus
+https://pecdl1.streameasthd.net/espnplus3/index.m3u8?token=224fb841602d4370a2ffd32464de24780b9eb97e-b1-1773566861-1773512861&ip=190.219.144.36
 #EXTINF:-1 group-title="DEPORTES", REAL MADRID 5 DISNEY
 https://agvyby.fubohd.com/espn/mono.m3u8?token=ab441cb1e2ef502c4557eca01f83de2e18bd4691-c6-1773274715-1773256715
 
