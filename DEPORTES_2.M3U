@@ -1,9 +1,8 @@
 O#EXTM3U
 
 
-#EXTINF:-1 group-title="DEPORTES", real madrid eñche
-https://pecdl1.streameasthd.net/espnplus3/index.m3u8?token=708cda91bc194ceb5a41c4018d0e81dc082360f7-d5-1773566534-1773512534&ip=190.219.144.36
-
+#EXTINF:-1 group-title="DEPORTES", ESPN DEPORTES
+https://aw1wcm92zq.fubohd.com/espn2/mono.m3u8?token=57562f617db4adde19c4e78afb9270911ff7959d-bb-1773642485-1773624485
 #EXTINF:-1 group-title="DEPORTES", REAL MADRID elche
 https://ag9wzq.fubohd.com/espndeportes/mono.m3u8?token=d2f4bfbe3be5b3f77b5e647866d090648739e19c-60-1773538752-1773520752
 
