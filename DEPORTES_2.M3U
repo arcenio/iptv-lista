@@ -5,8 +5,12 @@ O#EXTM3U
 
 https://anvtcax.fubohd.com/espn/mono.m3u8?token=3e57a04b8ee714f2b0059e0d5c19bfe1cb047fbb-59-1773783635-1773765635
 
-#EXTINF:-1 group-title="DEPORTES", REAL MADRID elche
-https://ag9wzq.fubohd.com/espndeportes/mono.m3u8?token=d2f4bfbe3be5b3f77b5e647866d090648739e19c-60-1773538752-1773520752
+#EXTINF:-1 group-title="DEPORTES", Deportes 
+
+
+https://anvtcax.fubohd.com/foxsports2/mono.m3u8?token=423973041727cb94fef6d819a45be3c15973d52d-d2-1773783792-1773765792
+
+
 
 #EXTINF:-1 group-title="DEPORTES", REAL MADRID 2
 
