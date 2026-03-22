@@ -1,54 +1,25 @@
 O#EXTM3U
-
-
-#EXTINF:-1 group-title="DEPORTES", ESPN 2
-
-https://8c51.streameasthd.net/espn2/index.m3u8?token=b531ea54d9b06441af4b1b02a66c666d84c128e6-fa-1773911944-1773857944&ip=159.26.100.220
-
-#EXTINF:-1 group-title="DEPORTES", Forx
-
-
-https://anvtcax.fubohd.com/foxsports2/mono.m3u8?token=423973041727cb94fef6d819a45be3c15973d52d-d2-1773783792-1773765792
-
-
-
-#EXTINF:-1 group-title="DEPORTES", REAL MADRID 2
-
-https://wp9xqedt.fubohd.com/espn/mono.m3u8?token=b3ee801547b81c23e7529a10330de5c80fd33b92-7-1773274471-1773256471
-
-#EXTINF:-1 group-title="DEPORTES", REAL MADRID elche a
-
-https://51a1.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=48477ed2089c0a1435e88c877aaf92501d70df26-ab-1773566750-1773512750
-
-#EXTINF:-1 group-title="DEPORTES", REAL MADRID  elche plus
-https://pecdl1.streameasthd.net/espnplus3/index.m3u8?token=224fb841602d4370a2ffd32464de24780b9eb97e-b1-1773566861-1773512861&ip=190.219.144.36
-#EXTINF:-1 group-title="DEPORTES", REAL MADRID 5 DISNEY
-https://agvyby.fubohd.com/espn/mono.m3u8?token=ab441cb1e2ef502c4557eca01f83de2e18bd4691-c6-1773274715-1773256715
-
-#EXTINF:-1 group-title="DEPORTES", REAL MADRID 6 DISNEY
-https://bgfuzq.fubohd.com/espn/mono.m3u8?token=8f8c059007e69a2f860ea6fcd43ebd87078b56f5-1a-1773274816-1773256816
-
-#EXTINF:-1 group-title="DEPORTES", REAL MADRID 7 DISNEY HD
-https://anvtcax.fubohd.com/espn/mono.m3u8?token=08c527794d1d5d404792ec2ca36f0d461b783d0d-3f-1773274865-1773256865
-
-#EXTINF:-1 group-title="DEPORTES", REAL MADRID 8
-https://bgfuzq.fubohd.com/espn/mono.m3u8?token=0e2128064d27f1c074d107cf0415c8ecbd98d98a-f8-1773277178-1773259178
-
-#EXTINF:-1 group-title="DEPORTES", fhd 1
-https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/5_.m3u8?token=gKVnHMeLtpPFHPiALv4eSw&expires=1773292723
-
+#EXTINF:-1 group-title="DEPORTES", ESPN 1
+https://pecdl1.streameasthd.net/espn/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=e88618af542a0e4cac819a53a9c3b8aae313e5e8-7d-1774251980-1774197980
+#EXTINF:-1 group-title="DEPORTES", movistar
+https://planetary.lovecdn.ru/LALIGAES/tracks-v1a1/mono.m3u8?token=TEFMSUdBRVN8bm9fY2hlY2tfaXB8MTc3NDIwNzQ5NQ%3D%3D.c0fd239cc74b886cd37a03a481049abccff7f3753570013ba255e89d695500f2
+#EXTINF:-1 group-title="DEPORTES", ESPN DEPORTES
+https://pecdl1.streameasthd.net/espndeportes/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=d18bed9ddfd0a05d6be88e91beadf86348dd7a6a-9a-1774252305-1774198305
+#EXTINF:-1 group-title="DEPORTES", ESPN 720
+https://ag9wzq.fubohd.com/espn/mono.m3u8?token=5faf715e365eb7c8c4956fe36860379b57eed554-fe-1774224494-1774206494
+#EXTINF:-1 group-title="DEPORTES", SKY MX 720
+https://aw1wcm92zq.fubohd.com/sky_sports_laliga/mono.m3u8?token=a170654d20a3217fafa0d9db990578dd1366737d-58-1774224570-1774206570
+#EXTINF:-1 group-title="DEPORTES", ESPN DEPORTES 720
+https://bgfuzq.fubohd.com/espndeportes/mono.m3u8?token=9b76b229cc0eee988cd413b45382ebefbb57b820-da-1774224691-1774206691
+#EXTINF:-1 group-title="DEPORTES", REAL MADRID ESPN HD
+https://14c51.streameasthd.net/espn/index.m3u8?token=a9c4c20068733f0854478e507493639e6e6bf9ce-da-1774252736-1774198736&ip=190.219.144.36
+#EXTINF:-1 group-title="DEPORTES", REAL MADRID ESPN HD 2
+https://14c51.streameasthd.net/espn/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=a9c4c20068733f0854478e507493639e6e6bf9ce-da-1774252736-1774198736
+#EXTINF:-1 group-title="DEPORTES", ESPN PLUS 1
+https://98ca2.streameasthd.net/espnplus3/index.m3u8?token=b0d7a042a8ef3dab09b8c545ffdad12e54c0a118-98-1774252894-1774198894&ip=190.219.144.36
+#EXTINF:-1 group-title="DEPORTES", ESPN PLUS 2
+https://98ca2.streameasthd.net/espnplus3/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=b0d7a042a8ef3dab09b8c545ffdad12e54c0a118-98-1774252894-1774198894
 #EXTINF:-1 group-title="DEPORTES", fhd 2
-https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/5_.m3u8?token=Hv09_vg4uBPa1e2OiULzdg&expires=1773292813
-
-#EXTINF:-1 group-title="DEPORTES", fhd 3
-https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/5_.m3u8?token=UIH27Cq7uF-IeVC9c_HfiQ&expires=1773292837
-
-
-#EXTINF:-1 group-title="DEPORTES", fhd 4
-https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/5_.m3u8?token=R1hLEH3Bm-LmuP7esLeOuw&expires=1773292869
-
-#EXTINF:-1 group-title="DEPORTES", fhd 5
-https://deportes.ksdjugfsddeports.com:9092/MTkwLjIxOS4xNDQuMzY=/5_.m3u8?token=-a2C2QH3Io_2-wEWtFC00Q&expires=1773292898
 
 
 
