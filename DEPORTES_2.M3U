@@ -5,14 +5,14 @@ https://doc1.streameasthd.net/caracoltv/index.m3u8?token=5aa780d788d92113780680d
 https://eyk4pqe8.04334746.net:8443/hls/eflb8gathr4gtu.m3u8?s=nFTsxV0n54ON_a2igMipFA&e=1774829989
 #EXTINF:-1 group-title="DEPORTES", unverso 2
 https://eyk4pqe8.04334746.net:8443/hls/eflb8gathr4gtu.m3u8?s=nFTsxV0n54ON_a2igMipFA&e=1774829989
-#EXTINF:-1 group-title="DEPORTES", ESPN 720
-https://ag9wzq.fubohd.com/espn/mono.m3u8?token=5faf715e365eb7c8c4956fe36860379b57eed554-fe-1774224494-1774206494
-#EXTINF:-1 group-title="DEPORTES", SKY MX 720
-https://aw1wcm92zq.fubohd.com/sky_sports_laliga/mono.m3u8?token=a170654d20a3217fafa0d9db990578dd1366737d-58-1774224570-1774206570
-#EXTINF:-1 group-title="DEPORTES", ESPN DEPORTES 720
-https://bgfuzq.fubohd.com/espndeportes/mono.m3u8?token=9b76b229cc0eee988cd413b45382ebefbb57b820-da-1774224691-1774206691
-#EXTINF:-1 group-title="DEPORTES", DSPORT PRINCIPAL
-https://a2vlca.fubohd.com/dsports/mono.m3u8?token=0af103aa07f718cf165c4a3cee7029ca18cf77cf-8f-1774594380-1774576380
+#EXTINF:-1 group-title="DEPORTES", DSPORT
+https://14c51.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=9d5b4ba867242c799bf9467f2d6e6b014ea3d894-43-1774853559-1774799559
+#EXTINF:-1 group-title="DEPORTES", TELEMUNDO 1
+https://eyk4pqe8.04334746.net:8443/hls/80yp1j.m3u8?s=5CZ1Dz9l35DC613O742lHg&e=1774830221
+#EXTINF:-1 group-title="DEPORTES", UNIVERSO 720
+https://agvyby.fubohd.com/universo/mono.m3u8?token=1d62542d0547de9d5e82a5fb25cb3e98d3d1b943-24-1774825814-1774807814
+#EXTINF:-1 group-title="DEPORTES", TELEMUNDO 720
+https://agvyby.fubohd.com/telemundo/mono.m3u8?token=93ab616a58768750f71c13c154af800d88bb8977-61-1774825887-1774807887
 #EXTINF:-1 group-title="DEPORTES", DESPORT OTRO 2
 https://51a1.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=aed6e2134176370205a4b3489fabbbf616e8f819-8c-1774621999-1774567999
 #EXTINF:-1 group-title="DEPORTES", DESPORT OTRO 1
