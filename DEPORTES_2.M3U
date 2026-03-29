@@ -1,16 +1,10 @@
 O#EXTM3U
-#EXTINF:-1 group-title="DEPORTES", RPC
-
-https://dmxleo.dailymotion.com/cdn/manifest/video/x8lwrcd.m3u8?af=2%2C7%2C8%2C9&vv=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C11%2C12%2C13%2C14&mm=video%2Fmp4%2Cvideo%2Fwebm%2Caudio%2Fmp4%2Caudio%2Fmpeg%2Caudio%2Faac%2Caudio%2Fmpeg3%2Caudio%2Fmp3%2Caudio%2Fvnd.wave%2Caudio%2Fwav%2Caudio%2Fwave%2Caudio%2Fogg%2Caudio%2Fvorbis%2Cimage%2Fjpeg%2Cimage%2Fpng%2Cimage%2Fwebp%2Cimage%2Fsvg%2Bxml&cse=1jko0aciic4808cb75c&rts=252869&rhv=1&cen=prod&cpi=x2plrgt&cpt=player&rla=es&cpr=xhq0n&eb=https%3A%2F%2Fwww.rpctv.com%2Fendirecto&ps=360x202&td=www.rpctv.com&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---&vl=-1&ciid=1jko0aciic4808cb75c_VMAP_0_0&cidx=0&sidx=0&vidIdx=0&omp=Dailymotion%2F1.0&omn=0&imal=-1&uid_dm=a732bf7d-ce99-1b9a-4797-5a9432a51201&3pcb=0&rap=1&apo=monetization&pos=1&pdm=regular&pbm=2
-
-
-#EXTINF:-1 group-title="DEPORTES", TVMQX
-
-https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/yB_eY9MOQUepHoz0yC5C0Q/stream/33101351-f95d-45fc-ab0d-9bc92c6b2a84:TUL/variant/20bdda19ad81621e8e00fea0799a9d72/bandwidth/1623600.m3u8?aid=6495bd4ecd55fe08b4765b53&uid=o1YFDB705YEPNagtd8mEwBa0t5ubsX2s&sid=162k3dV32Y9JhTTEcd72vFsw4STrgQjh&pid=ffVVvl4Dq4STBfYOUzXLPptvrKnaiiZT&pid_dvr=a5itm6zhkrjSOm8hW3jm8JZ8PPtz67xe&ref=https%3A%2F%2Ftvnpass.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=m4jrT5KyM9wh8l476PRY9zULCFNCZJ5vPmAI31IRvGZWCOTUu3cm7Nn0sMem2ygrWvX9BotLJiD&adInsertionGoogleStreamId=33101351-f95d-45fc-ab0d-9bc92c6b2a84%3ATUL&CMCD=cid%3D%2265d4c7bcbe741b6c4131bd70%22%2Cmtp%3D3000%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22ffVVvl4Dq4STBfYOUzXLPptvrKnaiiZT%22&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1774713801923&ot=cqeJ1kihLqxInxMCMndfBA&proto=https&pz=us
-
-
-#EXTINF:-1 group-title="DEPORTES", ESPN DEPORTES
-https://pecdl1.streameasthd.net/espndeportes/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=d18bed9ddfd0a05d6be88e91beadf86348dd7a6a-9a-1774252305-1774198305
+#EXTINF:-1 group-title="DEPORTES", caracol
+https://doc1.streameasthd.net/caracoltv/index.m3u8?token=5aa780d788d92113780680d29d7f07691771d4b5-7a-1774853307-1774799307&ip=190.219.144.36
+#EXTINF:-1 group-title="DEPORTES", Universo
+https://eyk4pqe8.04334746.net:8443/hls/eflb8gathr4gtu.m3u8?s=nFTsxV0n54ON_a2igMipFA&e=1774829989
+#EXTINF:-1 group-title="DEPORTES", unverso 2
+https://eyk4pqe8.04334746.net:8443/hls/eflb8gathr4gtu.m3u8?s=nFTsxV0n54ON_a2igMipFA&e=1774829989
 #EXTINF:-1 group-title="DEPORTES", ESPN 720
 https://ag9wzq.fubohd.com/espn/mono.m3u8?token=5faf715e365eb7c8c4956fe36860379b57eed554-fe-1774224494-1774206494
 #EXTINF:-1 group-title="DEPORTES", SKY MX 720
