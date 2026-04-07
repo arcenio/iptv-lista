@@ -1,6 +1,8 @@
 O#EXTM3U
-#EXTINF:-1 group-title="DEPORTES", caracol
-https://doc1.streameasthd.net/caracoltv/index.m3u8?token=5aa780d788d92113780680d29d7f07691771d4b5-7a-1774853307-1774799307&ip=190.219.144.36
+#EXTINF:-1 group-title="DEPORTES", Madrid bayer
+
+https://doc1.streameasthd.net/disney1/index.m3u8?token=bba5a4a04e568ce442aa055d417b0a8814dc9594-33-1775635265-1775581265&ip=190.141.172.235
+
 #EXTINF:-1 group-title="DEPORTES", Universo
 https://eyk4pqe8.04334746.net:8443/hls/eflb8gathr4gtu.m3u8?s=nFTsxV0n54ON_a2igMipFA&e=1774829989
 #EXTINF:-1 group-title="DEPORTES", unverso 2
