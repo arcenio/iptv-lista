@@ -1,14 +1,10 @@
 O#EXTM3U
-#EXTINF:-1 group-title="DEPORTES", barcelona
-
-https://92vhjue8.39564828.net:8443/hls/ii3hr0p2u.m3u8?s=vcr2sUeGyTSJMyRikp9iog&e=1775696249
-
-
-
-#EXTINF:-1 group-title="DEPORTES", Universo
-https://eyk4pqe8.04334746.net:8443/hls/eflb8gathr4gtu.m3u8?s=nFTsxV0n54ON_a2igMipFA&e=1774829989
-#EXTINF:-1 group-title="DEPORTES", unverso 2
-https://eyk4pqe8.04334746.net:8443/hls/eflb8gathr4gtu.m3u8?s=nFTsxV0n54ON_a2igMipFA&e=1774829989
+#EXTINF:-1 group-title="DEPORTES", madrid espan
+https://wp9xqedt.fubohd.com/espn/mono.m3u8?token=e2fd1db6dc57101072ad8d9a785c305c5d9547fb-c2-1775864522-1775846522
+#EXTINF:-1 group-title="DEPORTES", dinsey 1
+https://doc1.streameasthd.net/disney4/index.m3u8?token=5273f60a988541434a35cfa93a1a36304d09275e-fe-1775892303-1775838303&ip=190.219.144.36
+#EXTINF:-1 group-title="DEPORTES", dinsey 2
+https://doc1.streameasthd.net/disney4/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=5273f60a988541434a35cfa93a1a36304d09275e-fe-1775892303-1775838303
 #EXTINF:-1 group-title="DEPORTES", DSPORT
 https://14c51.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=9d5b4ba867242c799bf9467f2d6e6b014ea3d894-43-1774853559-1774799559
 #EXTINF:-1 group-title="DEPORTES", TELEMUNDO 1
