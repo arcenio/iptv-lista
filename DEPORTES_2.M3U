@@ -5,12 +5,21 @@ https://24a1.streameasthd.net/max1/index.m3u8?token=048cb6ef9c4759a596e743a18415
 
 
 
+#EXTINF:-1 group-title="DEPORTES", Espn
+Barcelons
+
+https://doc1.streameasthd.net/espn/index.m3u8?token=fc7f5dabaa630e0af06bc2d5edd217de2e9cb419-81-1776238052-1776184052&ip=190.57.41.102
+
+
 #EXTINF:-1 group-title="DEPORTES", dinsey 1
-https://doc1.streameasthd.net/disney4/index.m3u8?token=5273f60a988541434a35cfa93a1a36304d09275e-fe-1775892303-1775838303&ip=190.219.144.36
-#EXTINF:-1 group-title="DEPORTES", dinsey 2
-https://doc1.streameasthd.net/disney4/tracks-v1a1/mono.m3u8?ip=190.219.144.36&token=5273f60a988541434a35cfa93a1a36304d09275e-fe-1775892303-1775838303
-#EXTINF:-1 group-title="DEPORTES", movistar madrid
-https://eyk4pqe8.04334746.net:8443/hls/w5ujxpxue.m3u8?s=lFCtlQo9wCbiXO0bOpcZmg&e=1775869286
+
+https://98ca2.streameasthd.net/disney2/index.m3u8?token=372bb7dd7869a5e0852960ae94f63d5e3afb70ba-31-1776238140-1776184140&ip=190.57.41.102
+
+#EXTINF:-1 group-title="DEPORTES", Disney 2 Barcelona 
+
+https://98ca2.streameasthd.net/disney2/tracks-v1a1/mono.m3u8?ip=190.57.41.102&token=372bb7dd7869a5e0852960ae94f63d5e3afb70ba-31-1776238140-1776184140
+
+
 #EXTINF:-1 group-title="DEPORTES", TELEMUNDO 1
 https://eyk4pqe8.04334746.net:8443/hls/80yp1j.m3u8?s=5CZ1Dz9l35DC613O742lHg&e=1774830221
 #EXTINF:-1 group-title="DEPORTES", UNIVERSO 720
