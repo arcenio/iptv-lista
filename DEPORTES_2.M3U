@@ -1,6 +1,10 @@
 O#EXTM3U
-#EXTINF:-1 group-title="DEPORTES", madrid espan
-https://wp9xqedt.fubohd.com/espn/mono.m3u8?token=e2fd1db6dc57101072ad8d9a785c305c5d9547fb-c2-1775864522-1775846522
+#EXTINF:-1 group-title="DEPORTES", MAX BARCELONA
+
+https://24a1.streameasthd.net/max1/index.m3u8?token=048cb6ef9c4759a596e743a184157c34b7bedf4a-9e-1776237928-1776183928&ip=190.57.41.102
+
+
+
 #EXTINF:-1 group-title="DEPORTES", dinsey 1
 https://doc1.streameasthd.net/disney4/index.m3u8?token=5273f60a988541434a35cfa93a1a36304d09275e-fe-1775892303-1775838303&ip=190.219.144.36
 #EXTINF:-1 group-title="DEPORTES", dinsey 2
